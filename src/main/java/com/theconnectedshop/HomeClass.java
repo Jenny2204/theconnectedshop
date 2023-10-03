@@ -79,4 +79,4 @@ public class HomeClass {
 //    //        Home button
 //    WebElement homeLink = driver.findElement(By.xpath("//header/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"));
 //        homeLink.click();
-//    }}
+
