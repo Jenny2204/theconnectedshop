@@ -54,7 +54,7 @@ public class HomeClass {
 
     }
 }
-    //   Check home button
+    //   Check home button?
 //    List<WebElement> listItems1 = driver.findElements(By.className("//header/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"));
 //        if (!listItems1.isEmpty())
 //
